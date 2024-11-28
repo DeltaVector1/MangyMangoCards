@@ -107,7 +107,7 @@ function toggleMode() {
 // Fetch Cards Todo count
 async function fetchCardsTodo() {
     try {
-        const response = await fetch('https://api.github.com/repos/MangyMango/MangoMango/issues?state=open');
+        const response = await fetch('https://api.github.com/repos/DeltaVector1/MangyMangoCards/issues?state=open');
         const data = await response.json();
         document.getElementById('cards-todo-count').textContent = data.length;
     } catch (error) {
