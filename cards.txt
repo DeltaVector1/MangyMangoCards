@@ -10,6 +10,12 @@ Path_to_image: images/Yumi.png
 name: Yumi
 Description: Yuri, GF that loves spending her limitless amounts of cash to spoil you
 
+Catbox link: https://files.catbox.moe/ob6zxv.png
+Chub link: https://chub.ai/characters/MangyMango/mei-goofy-goth-kawaii-gf-6fa066706409
+Path_to_image: images/mei.png
+name: Mei
+Description: Your very own, self conscious, whiny, cute and lovable goth GF, She's come over to visit you! ٩(^ᗜ^ )و ´- 
+
 Catbox link: https://files.catbox.moe/la9ikd.png
 Chub link: https://chub.ai/characters/MangyMango/a-literal-fucking-horny-donut-leclair-77c77c8e15a0
 Path_to_image: images/donut.png
