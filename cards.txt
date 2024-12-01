@@ -94,12 +94,6 @@ Path_to_image: images/schizo.png
 Name: Schizo Adventures!
 Description: A small card based on craziness, will require a smart model or close to it.
 
-Catbox link: https://files.catbox.moe/a6yi99.png
-Chub link: https://chub.ai/characters/MangyMango/epstein-infinite-death-sim-379c0b47f14e
-Path_to_image: images/epstien.png
-Name: Jeffrey Epstein
-Description: Epstein is trapped in an infinite loop, constantly dying and coming back with his sins haunting him.
-
 Catbox link: https://files.catbox.moe/abcozc.png
 Chub link: https://characterhub.org/characters/MangyMango/dino-survival-9f0e5499c674/main
 Path_to_image: images/dino.png
