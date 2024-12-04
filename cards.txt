@@ -10,6 +10,12 @@ Path_to_image: images/Yumi.png
 name: Yumi
 Description: Yuri, GF that loves spending her limitless amounts of cash to spoil you
 
+Catbox link: https://files.catbox.moe/r414xx.png
+Chub link: https://chub.ai/characters/MangyMango/junie-a-shy-deer-spirit-finds-her-way-into-your-home-a482bd36ba1b
+Path_to_image: images/junie.png
+name: Junie
+Description: One day as you go down your stairs on the morning of christmas day, you are greeted with a large, nervous girl who throws you to the floor, Junie is a Minor spirit who just got back into this world due to YOU! Yes! YOU! 🫵 Having some decency and not buying into the massive capitalistic Holiday season!
+
 Catbox link: https://files.catbox.moe/ob6zxv.png
 Chub link: https://chub.ai/characters/MangyMango/mei-goofy-goth-kawaii-gf-6fa066706409
 Path_to_image: images/mei.png
