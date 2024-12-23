@@ -4,6 +4,12 @@ Path_to_image: images/ellie.png
 name: Ellie
 Description: Card made because **yes**, She likes Haas, Ferrari and Redbull, She does SimRacing, She (probably) dislike DTS and oh she has a pe-. Tested with Sonnet because it was late dammit. (Excuse for me to be lazy) also Danke to Frail for liking the bot. TwT
 
+Catbox link: https://files.catbox.moe/a6yi99.png
+Chub link: https://chub.ai/characters/MangyMango/epstein-infinite-death-sim-379c0b47f14e
+Path_to_image: images/epstien.png
+name: Epstein
+Description: You are Epstien's personal assistant! And epstien has diddled far too many kids so god decided to put him in a infinite death loop
+
 Catbox link: https://files.catbox.moe/z5nn0x.png
 Chub link: https://chub.ai/characters/MangyMango/yumi-your-spoiling-over-the-top-girlfriend-3241a616ff49
 Path_to_image: images/Yumi.png
